@@ -34,6 +34,7 @@
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
             android:src="@mipmap/default_left_head"
+            android:clickable="true"
             android:onClick="head_xiaohei" />
 
         <TextView
