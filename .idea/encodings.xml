@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" useUTFGuessing="false" native2AsciiForPropertiesFiles="false">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/act/AddFriendAct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/act/ChatAct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/act/LoginAct.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/adapter/ContactsAdapter.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/notification/AddFriendNotification.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/utils/BitmapUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/utils/DateUtils.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/anch/wxy_pc/imclient/utils/IntentUtils.java" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
+
