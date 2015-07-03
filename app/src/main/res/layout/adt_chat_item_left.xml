@@ -33,8 +33,7 @@
             android:layout_height="52dp"
             android:layout_alignParentLeft="true"
             android:layout_alignParentTop="true"
-            android:src="@mipmap/default_left_head"
-            android:onClick="head_xiaohei" />
+            android:src="@mipmap/default_left_head"/>
 
         <TextView
             android:id="@+id/chat_content_tv"
